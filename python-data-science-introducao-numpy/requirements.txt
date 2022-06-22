@@ -1,4 +1,4 @@
 DateTime==4.3
-numpy==1.19.1
+numpy==1.22.0
 pytz==2020.1
 zope.interface==5.1.0
